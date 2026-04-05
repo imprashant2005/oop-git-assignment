@@ -12,4 +12,4 @@ OOP assignment demonstrating Git and GitHub features
 </ul>
 
 <h2>Author</h2>
-<p>Deependra Rawat</p>
+<p>Prashant Rawat</p>
