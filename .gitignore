@@ -1,0 +1,15 @@
+# Logs
+*.log
+
+# Executables
+*.exe
+
+# Environment files
+.env
+
+# Node modules
+node_modules/
+
+# IDE settings
+.vscode/
+.idea/
