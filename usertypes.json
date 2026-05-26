@@ -1,0 +1,16 @@
+[
+  {
+    "Type": "Admin",
+    "Name": "Robert",
+    "Age": 40,
+    "City": "Paris",
+    "AdminLevel": "Super"
+  },
+  {
+    "Type": "Regular",
+    "Name": "Emma",
+    "Age": 22,
+    "City": "Rome",
+    "MembershipType": "Gold"
+  }
+]
